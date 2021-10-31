@@ -1,0 +1,23 @@
+{
+  "name": "repository30102021",
+  "version": "1.0.0",
+  "description": "first program node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangya/G34SoftDev.git"
+  },
+  "author": "gangya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gangya/G34SoftDev/issues"
+  },
+  "homepage": "https://github.com/gangya/G34SoftDev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
